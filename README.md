@@ -22,7 +22,7 @@ Replace `<your api key here>` with your OpenAI API key and `<your mongodb uri he
 1. Clone this repository to your local machine:
 
     ```sh
-    git clone <repository url>
+    git clone https://github.com/KnotEnvy/KnotzImageGenerator
     ```
 
 2. Navigate to the project directory and install the necessary dependencies:
